@@ -1,0 +1,17 @@
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\bin\Debug\netcoreapp3.1\XMLCalc.exe
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\bin\Debug\netcoreapp3.1\XMLCalc.deps.json
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\bin\Debug\netcoreapp3.1\XMLCalc.runtimeconfig.json
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\bin\Debug\netcoreapp3.1\XMLCalc.runtimeconfig.dev.json
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\bin\Debug\netcoreapp3.1\XMLCalc.dll
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\bin\Debug\netcoreapp3.1\XMLCalc.pdb
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\obj\Debug\netcoreapp3.1\XMLCalc.csprojAssemblyReference.cache
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\obj\Debug\netcoreapp3.1\XMLCalc_MarkupCompile.cache
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\obj\Debug\netcoreapp3.1\XMLCalc_MarkupCompile.lref
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\obj\Debug\netcoreapp3.1\XMLCalc.g.resources
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\obj\Debug\netcoreapp3.1\XMLCalc.AssemblyInfoInputs.cache
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\obj\Debug\netcoreapp3.1\XMLCalc.AssemblyInfo.cs
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\obj\Debug\netcoreapp3.1\XMLCalc.dll
+C:\Users\USER-2019\source\repos\XMLCalc\XMLCalc\obj\Debug\netcoreapp3.1\XMLCalc.pdb
